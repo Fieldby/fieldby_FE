@@ -223,7 +223,7 @@ const LoginContainerCSS = styled.div`
       text-align: center;
       color: #ffffff;
       cursor: pointer;
-      transition: all 0.3s;
+      transition: all 0.4s;
     }
 
     #login-btn:hover {
