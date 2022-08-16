@@ -247,6 +247,9 @@ const LoginContainerCSS = styled.div`
         color: #303030;
         text-decoration: none;
       }
+      .login-signup:hover {
+        color: #22baa8;
+      }
       .login-find-pw {
         margin-left: 6px;
         font-style: normal;
@@ -255,6 +258,9 @@ const LoginContainerCSS = styled.div`
         line-height: 19px;
         color: #303030;
         text-decoration: none;
+      }
+      .login-find-pw:hover {
+        color: #22baa8;
       }
     }
   }
@@ -275,10 +281,16 @@ const LoginContainerCSS = styled.div`
         text-decoration: none;
         color: #8e8e8e;
       }
+      .login-privacy:hover {
+        color: #22baa8;
+      }
       .login-policy {
         margin-left: 3px;
         text-decoration: none;
         color: #8e8e8e;
+      }
+      .login-policy:hover {
+        color: #22baa8;
       }
     }
 
